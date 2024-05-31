@@ -1,0 +1,36 @@
+Programs on Linked list:
+    1. Linked list construction and printing 
+    2. Insertion at tail 
+    3. Insertion at head 
+    4. Insertion at specific position 
+    5. Deletion at tail 
+    6. Deletion at head 
+    7. Deletion at specific position
+
+
+Programs on Stacks and Queues:
+    1. Stack implementation 
+    2. Queue implementation 
+    3. valid brackets solution 
+    4. valid brackets solution (Extended version)
+    
+
+Programs from Searching:
+    1. Linear Search 
+    2. Binary Search 
+    
+Program from Sorting:
+    1. Bubble sort 
+    2. Selection sort 
+    3. Insertion sort 
+    4. Merge sort
+
+Programs on Trees:
+    1. Preorder traversal
+    2. Inorder traversal
+    3. Postorder traversal
+    4. Level order traversal 
+    5. Max sum problem solution 
+    6. Left view of Binary Tree 
+    7. Right view of Binary Tree 
+    
